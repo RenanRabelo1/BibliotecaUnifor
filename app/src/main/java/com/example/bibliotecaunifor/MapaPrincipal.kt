@@ -236,7 +236,7 @@ fun MapScreen(modifier: Modifier = Modifier) {
                         verticalAlignment = Alignment.CenterVertically
                     ) {
                         Text(text = "\uD83D\uDFE2")
-                        Text(text = "Salas de Estudo")
+                        Text(text = "Salas de Estudo OI")
                     }
                 }
             }
